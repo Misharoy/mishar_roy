@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: cursive;
+}
+a {
+    text-decoration: none;
+}
+img {
+    vertical-align: middle;
+}
+ul,ol {
+    list-style: none;
+}
+/* common css end*/
+/* Position part start*/
+h1 {
+    color: #00ff0a;
+    text-align: center;
+    font-size: 40px;
+}
+.one {
+    background: #008100;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+}
+.a {
+    background: #2700ff;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: -50px;
+    right: -50px;
+}
+.b {
+    background: #f5ff00;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: -50px;
+    bottom: -50px;
+}
+.c {
+    background: #f500ff;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: -50px;
+    bottom: -50px;
+}
+.d {
+    background: #00ff14;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: -50px;
+    bottom: 150px;
+}
+.e {
+    background: #009dff;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: -50px;
+    right: 150px;
+}
+.f {
+    background: #e3961c;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: -50px;
+    top: 150px;
+    
+}
+.g {
+    background: #92f50b;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    bottom: -50px;
+    left: 150px;
+    
+}
+.h {
+    background: #0e57fa;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    margin: auto;
+    top: -50px;
+    left: -50px;
+    
+}
+.i {
+    background: #ff0000;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    bottom: 100px;
+    right: 100px;
+}
